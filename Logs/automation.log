@@ -1,0 +1,211 @@
+2022-07-07 12:56:46,646 - root - INFO - TEST_001_Login
+2022-07-07 12:56:46,646 - root - INFO - Verifying Home page Title
+2022-07-07 12:56:49,098 - root - INFO - Home page Title test is passed
+2022-07-07 12:56:50,564 - root - INFO - Verifying Login test
+2022-07-07 12:56:58,345 - root - INFO - Login test is passed
+2022-07-07 13:16:17,704 - root - INFO - TEST_001_Login
+2022-07-07 13:16:17,705 - root - INFO - Verifying Home page Title
+2022-07-07 13:16:20,929 - root - INFO - Home page Title test is passed
+2022-07-07 13:16:22,566 - root - INFO - Verifying Login test
+2022-07-07 13:16:31,930 - root - INFO - Login test is passed
+2022-07-07 13:18:53,051 - root - INFO - TEST_001_Login
+2022-07-07 13:18:53,052 - root - INFO - Verifying Home page Title
+2022-07-07 13:18:58,879 - root - INFO - Home page Title test is passed
+2022-07-07 13:19:00,434 - root - INFO - Verifying Login test
+2022-07-07 13:19:12,051 - root - INFO - Login test is passed
+2022-07-07 13:19:17,551 - root - INFO - TEST_001_Login
+2022-07-07 13:19:17,551 - root - INFO - Verifying Home page Title
+2022-07-07 13:19:24,476 - root - INFO - Home page Title test is passed
+2022-07-07 13:19:26,045 - root - INFO - Verifying Login test
+2022-07-07 13:19:31,854 - root - INFO - Login test is passed
+2022-07-07 13:22:17,391 - root - INFO - Verifying Login test
+2022-07-07 13:22:17,580 - root - INFO - TEST_001_Login
+2022-07-07 13:22:17,580 - root - INFO - Verifying Home page Title
+2022-07-07 13:22:24,678 - root - INFO - Home page Title test is passed
+2022-07-07 13:22:24,793 - root - INFO - Login test is passed
+2022-07-07 13:39:30,533 - root - INFO - TEST_001_Login
+2022-07-07 13:39:30,534 - root - INFO - Verifying Home page Title
+2022-07-07 13:39:30,576 - root - INFO - Verifying Login test
+2022-07-07 13:39:37,689 - root - INFO - Home page Title test is passed
+2022-07-07 13:39:37,875 - root - INFO - Login test is passed
+2022-07-07 13:42:44,478 - root - INFO - TEST_001_Login
+2022-07-07 13:42:44,479 - root - INFO - Verifying Home page Title
+2022-07-07 13:42:47,267 - root - INFO - Home page Title test is passed
+2022-07-07 13:42:48,760 - root - INFO - Verifying Login test
+2022-07-07 13:42:54,572 - root - INFO - Login test is passed
+2022-07-08 20:33:14,645 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 20:33:22,405 - root - INFO - *********Login Successful*********
+2022-07-08 20:33:22,405 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 20:33:26,005 - root - INFO - *********Providing Customer Info*********
+2022-07-08 20:34:06,087 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 20:34:11,880 - root - INFO - *********Login Successful*********
+2022-07-08 20:34:11,880 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 20:34:15,548 - root - INFO - *********Providing Customer Info*********
+2022-07-08 20:34:49,297 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 20:34:56,761 - root - INFO - *********Login Successful*********
+2022-07-08 20:34:56,761 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 20:35:00,249 - root - INFO - *********Providing Customer Info*********
+2022-07-08 20:38:51,133 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 20:38:57,663 - root - INFO - *********Login Successful*********
+2022-07-08 20:38:57,664 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 20:39:01,188 - root - INFO - *********Providing Customer Info*********
+2022-07-08 20:45:12,412 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 20:45:19,083 - root - INFO - *********Login Successful*********
+2022-07-08 20:45:19,084 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 20:45:24,153 - root - INFO - *********Providing Customer Info*********
+2022-07-08 20:47:20,884 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 20:47:27,267 - root - INFO - *********Login Successful*********
+2022-07-08 20:47:27,268 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 20:47:31,990 - root - INFO - *********Providing Customer Info*********
+2022-07-08 20:50:20,352 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 20:50:28,334 - root - INFO - *********Login Successful*********
+2022-07-08 20:50:28,334 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 20:50:33,405 - root - INFO - *********Providing Customer Info*********
+2022-07-08 20:56:59,858 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 20:57:07,693 - root - INFO - *********Login Successful*********
+2022-07-08 20:57:07,694 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 20:57:12,362 - root - INFO - *********Providing Customer Info*********
+2022-07-08 21:00:25,778 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 21:00:33,834 - root - INFO - *********Login Successful*********
+2022-07-08 21:00:33,834 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 21:00:37,681 - root - INFO - *********Providing Customer Info*********
+2022-07-08 21:01:37,914 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 21:01:45,322 - root - INFO - *********Login Successful*********
+2022-07-08 21:01:45,322 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 21:01:49,242 - root - INFO - *********Providing Customer Info*********
+2022-07-08 21:04:32,065 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 21:04:40,314 - root - INFO - *********Login Successful*********
+2022-07-08 21:04:40,314 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 21:04:45,302 - root - INFO - *********Providing Customer Info*********
+2022-07-08 21:05:45,755 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 21:05:51,503 - root - INFO - *********Login Successful*********
+2022-07-08 21:05:51,508 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 21:05:56,562 - root - INFO - *********Providing Customer Info*********
+2022-07-08 21:06:36,930 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 21:06:45,423 - root - INFO - *********Login Successful*********
+2022-07-08 21:06:45,423 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 21:06:49,897 - root - INFO - *********Providing Customer Info*********
+2022-07-08 21:11:27,389 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 21:11:40,609 - root - INFO - *********Login Successful*********
+2022-07-08 21:11:40,615 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 21:11:57,241 - root - INFO - *********Providing Customer Info*********
+2022-07-08 21:12:05,505 - root - INFO - *********Saving customer Info*********
+2022-07-08 21:12:05,506 - root - INFO - *********Add customer validation started*********
+2022-07-08 23:11:46,976 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 23:11:54,984 - root - INFO - *********Login Successful*********
+2022-07-08 23:11:54,984 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 23:11:59,068 - root - INFO - *********Providing Customer Info*********
+2022-07-08 23:12:11,831 - root - INFO - *********Saving customer Info*********
+2022-07-08 23:12:11,831 - root - INFO - *********Add customer validation started*********
+2022-07-08 23:12:12,671 - root - INFO - *********Add customer test passed*********
+2022-07-08 23:12:16,922 - root - INFO - *********Ending Home page title test*********
+2022-07-08 23:13:45,506 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 23:13:52,303 - root - INFO - *********Login Successful*********
+2022-07-08 23:13:52,303 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 23:13:55,920 - root - INFO - *********Providing Customer Info*********
+2022-07-08 23:14:09,155 - root - INFO - *********Saving customer Info*********
+2022-07-08 23:14:09,156 - root - INFO - *********Add customer validation started*********
+2022-07-08 23:14:09,454 - root - INFO - *********Add customer test passed*********
+2022-07-08 23:14:09,586 - root - INFO - *********Ending Home page title test*********
+2022-07-08 23:16:31,981 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 23:16:39,846 - root - INFO - *********Login Successful*********
+2022-07-08 23:16:39,847 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 23:16:44,416 - root - INFO - *********Providing Customer Info*********
+2022-07-08 23:16:57,277 - root - INFO - *********Saving customer Info*********
+2022-07-08 23:16:57,278 - root - INFO - *********Add customer validation started*********
+2022-07-08 23:16:57,504 - root - INFO - *********Add customer test passed*********
+2022-07-08 23:16:57,680 - root - INFO - *********Ending Home page title test*********
+2022-07-08 23:21:18,039 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-08 23:21:25,306 - root - INFO - *********Login Successful*********
+2022-07-08 23:21:25,306 - root - INFO - *********Starting Add Customer Test*********
+2022-07-08 23:21:32,060 - root - INFO - *********Providing Customer Info*********
+2022-07-08 23:21:45,390 - root - INFO - *********Saving customer Info*********
+2022-07-08 23:21:45,391 - root - INFO - *********Add customer validation started*********
+2022-07-08 23:21:45,684 - root - INFO - *********Add customer test passed*********
+2022-07-08 23:21:45,860 - root - INFO - *********Ending Home page title test*********
+2022-07-09 00:09:54,807 - root - INFO - *********SearchCustomerByEmail_004*********
+2022-07-09 00:10:02,052 - root - INFO - *********Login Successful*********
+2022-07-09 00:10:02,052 - root - INFO - *********Starting Search Customer By Email*********
+2022-07-09 00:10:04,329 - root - INFO - *********Searching Customer By Email ID*********
+2022-07-09 00:19:25,526 - root - INFO - *********SearchCustomerByEmail_004*********
+2022-07-09 00:19:32,687 - root - INFO - *********Login Successful*********
+2022-07-09 00:19:32,687 - root - INFO - *********Starting Search Customer By Email*********
+2022-07-09 00:19:35,934 - root - INFO - *********Searching Customer By Email ID*********
+2022-07-12 10:13:45,314 - root - INFO - *********SearchCustomerByEmail_004*********
+2022-07-12 10:13:51,607 - root - INFO - *********Login Successful*********
+2022-07-12 10:13:51,607 - root - INFO - *********Starting Search Customer By Email*********
+2022-07-12 10:13:53,738 - root - INFO - *********Searching Customer By Email ID*********
+2022-07-12 10:28:42,658 - root - INFO - *********SearchCustomerByEmail_004*********
+2022-07-12 10:28:48,787 - root - INFO - *********Login Successful*********
+2022-07-12 10:28:48,788 - root - INFO - *********Starting Search Customer By Email*********
+2022-07-12 10:28:51,125 - root - INFO - *********Searching Customer By Email ID*********
+2022-07-12 10:35:50,711 - root - INFO - *********SearchCustomerByEmail_004*********
+2022-07-12 10:35:57,819 - root - INFO - *********Login Successful*********
+2022-07-12 10:35:57,820 - root - INFO - *********Starting Search Customer By Email*********
+2022-07-12 10:35:59,967 - root - INFO - *********Searching Customer By Email ID*********
+2022-07-12 10:38:04,740 - root - INFO - *********SearchCustomerByEmail_004*********
+2022-07-12 10:38:11,638 - root - INFO - *********Login Successful*********
+2022-07-12 10:38:11,638 - root - INFO - *********Starting Search Customer By Email*********
+2022-07-12 10:38:13,853 - root - INFO - *********Searching Customer By Email ID*********
+2022-07-12 10:44:31,559 - root - INFO - *********SearchCustomerByEmail_004*********
+2022-07-12 10:44:40,002 - root - INFO - *********Login Successful*********
+2022-07-12 10:44:40,002 - root - INFO - *********Starting Search Customer By Email*********
+2022-07-12 10:44:42,206 - root - INFO - *********Searching Customer By Email ID*********
+2022-07-12 10:48:15,354 - root - INFO - *********SearchCustomerByEmail_004*********
+2022-07-12 10:48:23,393 - root - INFO - *********Login Successful*********
+2022-07-12 10:48:23,395 - root - INFO - *********Starting Search Customer By Email*********
+2022-07-12 10:48:25,869 - root - INFO - *********Searching Customer By Email ID*********
+2022-07-12 10:51:57,572 - root - INFO - *********SearchCustomerByEmail_004*********
+2022-07-12 10:52:04,526 - root - INFO - *********Login Successful*********
+2022-07-12 10:52:04,526 - root - INFO - *********Starting Search Customer By Email*********
+2022-07-12 10:52:06,713 - root - INFO - *********Searching Customer By Email ID*********
+2022-07-12 10:54:36,693 - root - INFO - *********SearchCustomerByEmail_004*********
+2022-07-12 10:54:44,293 - root - INFO - *********Login Successful*********
+2022-07-12 10:54:44,294 - root - INFO - *********Starting Search Customer By Email*********
+2022-07-12 10:54:47,445 - root - INFO - *********Searching Customer By Email ID*********
+2022-07-12 10:54:53,012 - root - INFO - *************TC_SearchCustomerByEmail_004 Finished****************
+2022-07-12 10:55:38,391 - root - INFO - *********SearchCustomerByEmail_004*********
+2022-07-12 10:55:45,283 - root - INFO - *********Login Successful*********
+2022-07-12 10:55:45,284 - root - INFO - *********Starting Search Customer By Email*********
+2022-07-12 10:55:47,360 - root - INFO - *********Searching Customer By Email ID*********
+2022-07-12 10:55:52,902 - root - INFO - *************TC_SearchCustomerByEmail_004 Finished****************
+2022-07-12 11:31:59,654 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-12 11:31:59,654 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-12 11:31:59,654 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-12 11:31:59,654 - root - INFO - *********TEST_003_AddCustomer*********
+2022-07-12 11:32:06,449 - root - INFO - *********Login Successful*********
+2022-07-12 11:32:06,449 - root - INFO - *********Login Successful*********
+2022-07-12 11:32:06,449 - root - INFO - *********Login Successful*********
+2022-07-12 11:32:06,449 - root - INFO - *********Login Successful*********
+2022-07-12 11:32:06,450 - root - INFO - *********Starting Add Customer Test*********
+2022-07-12 11:32:06,450 - root - INFO - *********Starting Add Customer Test*********
+2022-07-12 11:32:06,450 - root - INFO - *********Starting Add Customer Test*********
+2022-07-12 11:32:06,450 - root - INFO - *********Starting Add Customer Test*********
+2022-07-12 11:32:13,033 - root - INFO - *********Providing Customer Info*********
+2022-07-12 11:32:13,033 - root - INFO - *********Providing Customer Info*********
+2022-07-12 11:32:13,033 - root - INFO - *********Providing Customer Info*********
+2022-07-12 11:32:13,033 - root - INFO - *********Providing Customer Info*********
+2022-07-12 11:32:26,188 - root - INFO - *********Saving customer Info*********
+2022-07-12 11:32:26,188 - root - INFO - *********Saving customer Info*********
+2022-07-12 11:32:26,188 - root - INFO - *********Saving customer Info*********
+2022-07-12 11:32:26,188 - root - INFO - *********Saving customer Info*********
+2022-07-12 11:32:26,189 - root - INFO - *********Add customer validation started*********
+2022-07-12 11:32:26,189 - root - INFO - *********Add customer validation started*********
+2022-07-12 11:32:26,189 - root - INFO - *********Add customer validation started*********
+2022-07-12 11:32:26,189 - root - INFO - *********Add customer validation started*********
+2022-07-12 11:32:26,573 - root - INFO - *********Add customer test passed*********
+2022-07-12 11:32:26,573 - root - INFO - *********Add customer test passed*********
+2022-07-12 11:32:26,573 - root - INFO - *********Add customer test passed*********
+2022-07-12 11:32:26,573 - root - INFO - *********Add customer test passed*********
+2022-07-12 11:32:26,743 - root - INFO - *********Ending Home page title test*********
+2022-07-12 11:32:26,743 - root - INFO - *********Ending Home page title test*********
+2022-07-12 11:32:26,743 - root - INFO - *********Ending Home page title test*********
+2022-07-12 11:32:26,743 - root - INFO - *********Ending Home page title test*********
+2022-07-12 11:32:28,310 - root - INFO - Verifying Login test
+2022-07-12 11:32:28,310 - root - INFO - Verifying Login test
+2022-07-12 11:32:28,310 - root - INFO - Verifying Login test
+2022-07-12 11:32:28,310 - root - INFO - Verifying Login test
+2022-07-12 11:32:34,903 - root - INFO - Login test is passed
+2022-07-12 11:32:34,903 - root - INFO - Login test is passed
+2022-07-12 11:32:34,903 - root - INFO - Login test is passed
+2022-07-12 11:32:34,903 - root - INFO - Login test is passed
